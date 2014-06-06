@@ -1,6 +1,7 @@
 # Site settings
 title: MacBen
 email: pocketkids@gmail.com
+username: "pocketkids"
 description: "Just for fun."
 baseurl: ""
 url: "http://pocketkids.github.io"
